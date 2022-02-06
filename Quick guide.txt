@@ -8,10 +8,9 @@ Quick guide :
 
 4. Run it
 
-%. If you get a pop up about are you sure you want to run this program click more info and click run
+5. If you get a pop up about are you sure you want to run this program click more info and click run
 
 6. Check task manager for performance on battery life.
-
 Optional :
 
 7.  Check the battery life
