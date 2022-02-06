@@ -1,2 +1,32 @@
 # Battery-tester
 Used to test battery for laptop. 
+
+Important!
+
+1. This app does not impact any hardware type for example [GPU CPU RAM DISK NETWORK] only Battery.
+
+2. This is new the current version is 0.0.1 Alpha.
+
+3. Im not responsible for any damages to the hardware you use this app on
+
+4. Please do not reuse my work for virues otr malware this was not intended to make malicious viruses or malware.
+
+5. Its open source for some cases but not to reuse and make malware or viruses.
+
+6. Feel free to open the code and read it
+
+
+		Third party apps and packages used
+
+
+Apps:
+
+Microsoft visual studio  code
+
+Packages:
+
+C# extensoin for visual studio code
+
+nugget to install raylib - cs binding
+
+Raylib - cs
