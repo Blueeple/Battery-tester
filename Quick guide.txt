@@ -1,0 +1,19 @@
+Quick guide :
+
+1. Extract the zip folder.
+
+2. Open the folder
+
+3. Search for Game engine.exe
+
+4. Run it
+
+5. Check task manager for performance on battery life.
+
+Optional :
+
+6.  Check the battery life
+
+If does not work :
+
+Please report it to me if it does not drain the battery has intended so i can fix it if there is any issues.
