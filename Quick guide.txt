@@ -8,12 +8,14 @@ Quick guide :
 
 4. Run it
 
-5. Check task manager for performance on battery life.
+%. If you get a pop up about are you sure you want to run this program click more info and click run
+
+6. Check task manager for performance on battery life.
 
 Optional :
 
-6.  Check the battery life
+7.  Check the battery life
 
 If does not work :
 
-Please report it to me if it does not drain the battery has intended so i can fix it if there is any issues.
+8. Please report it to me if it does not drain the battery has intended so i can fix it if there is any issues.
